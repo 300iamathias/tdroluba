@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "Distribuidor de queso fresco y madurado al por mayor y en pilas. Cotización sin compromiso. WhatsApp directo.",
   keywords: ["distribuidor de queso al por mayor", "queso en pilas Ecuador", "distri roluba", "comprar queso al por mayor", "queso fresco distribuidor"],
   icons: {
-    icon: "/images/logo.png",
+    icon: "/images/logo.jpeg",
   },
   openGraph: {
     title: "Distri Roluba — Distribuidor de Queso Al Por Mayor",
