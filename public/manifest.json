@@ -1,0 +1,22 @@
+{
+  "name": "Distri Roluba - Distribuidor de Queso Al Por Mayor",
+  "short_name": "Distri Roluba",
+  "description": "Distribuidor de queso fresco y madurado al por mayor y en pilas. Cotización sin compromiso.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8E7",
+  "theme_color": "#D4A017",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
