@@ -1,7 +1,7 @@
 export const business = {
   name: "Distri Roluba",
   ownerName: "Johnny Rodríguez Roluba",
-  tagline: "Distribuidor de Queso Al Por Mayor y En Pilas",
+  tagline: "Distribuidor de Queso Al Por Mayor",
   fullTagline: "Queso fresco, directo del productor. Al por mayor y en pilas.",
   whatsapp: "593993603118",
   whatsappMessage: "Hola, me interesa queso al por mayor. ¿Me puede dar cotización?",
@@ -22,12 +22,13 @@ export const business = {
     name: "Jimbra",
     url: "https://jimbra.net",
   },
+  // v7 — Paleta fresca (lácteos / granja / frescura matutina)
   colors: {
-    primary: "#D4A017",
-    secondary: "#8B4513",
-    accent: "#2D5016",
-    background: "#FFF8E7",
-    text: "#333333",
+    primary: "#0077B6",      // Azul cerúleo rico (botones principales)
+    secondary: "#4CAF50",    // Verde lima/prado vibrante (WhatsApp + CTA)
+    accent: "#89CFF0",       // Azul cielo (cabecera)
+    background: "#FFFDF7",   // Crema pálido / ivory (frescura láctea)
+    text: "#0D2137",         // Navy oscuro (NO marrón)
   },
   seo: {
     title: "Distri Roluba | Distribuidor de Queso Al Por Mayor | Queso en Pilas Ecuador",

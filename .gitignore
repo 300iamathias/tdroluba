@@ -50,26 +50,5 @@ test
 prompt
 
 server.log
-
 # Skills directory
 /skills/
-
-# Worklog and backup files
-worklog.md
-page-website-backup.tsx
-
-# Z-ai SDK config
-.z-ai-config
-.claude
-
-# Download directory (generated screenshots/exports)
-/download/
-
-# Scripts directory
-/scripts/
-
-# Upload directory
-/upload/
-
-# VLM temp files
-*.json
